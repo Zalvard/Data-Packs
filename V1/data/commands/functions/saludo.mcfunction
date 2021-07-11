@@ -1,0 +1,1 @@
+tellraw @a {"text":"Saludos Humano", "color":"gold"}
